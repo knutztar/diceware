@@ -1034,7 +1034,7 @@ var danish = {
   15543: "andel",
   15544: "andemad",
   15545: "andet",
-  15546: "andre",
+  15546: "anderledes",
   15551: "androgyn",
   15552: "androide",
   15553: "anede",
